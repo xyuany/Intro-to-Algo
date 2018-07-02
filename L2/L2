@@ -1,0 +1,5 @@
+# Asymptotic notation and Recurrences
+## Asymptotic notation
+* O   
+f(n ) = O (g(n)) means there are consts c>0 n0 >0 such that    
+* Macro convention: a set in a formula represent
